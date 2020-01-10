@@ -1,0 +1,6 @@
+Age: 35
+High: 186
+Sex male
+Earnings 9000
+Occupation doctor
+Citizenship polish
